@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "710429619611",
+    "firebase_url": "https://gramify-2fce3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gramify-2fce3",
+    "storage_bucket": "gramify-2fce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710429619611:android:4c175d4424e67f2ebf9d3e",
+        "android_client_info": {
+          "package_name": "in.social.gramify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOkUi5VaUc7dzDxZEr4XyeqKB4ElAJqnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
