@@ -37,7 +37,7 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/Gramify.git
+git clone https://github.com/KGD2417/Gramify.git
 cd Gramify
 ```
 
